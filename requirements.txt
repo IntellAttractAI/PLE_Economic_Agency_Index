@@ -1,0 +1,10 @@
+streamlit
+pandas
+pydeck
+openai
+fastapi
+uvicorn
+smol-agents
+boto3
+azure-storage-blob
+requests
